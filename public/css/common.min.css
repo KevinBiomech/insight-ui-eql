@@ -130,14 +130,14 @@ display:none !important
 	border: 0
 }
 .navbar-default .navbar-nav>li>a {
-	color: #346464;
+	color: white;
 	font-family: 'Ubuntu', sans-serif;
 	padding-left: 20px;
 	padding-right: 20px
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus {
 	background-color: #ccded5;
-	color: #346464
+	color: gray
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>.active>a:hover {
 	background-color: #fff;
@@ -204,7 +204,7 @@ display:none !important
 	margin-left: 5px
 }
 #search {
-	color: #fff
+	color: gray
 }
 #search::-webkit-input-placeholder {
 color:#a7a7a7;
